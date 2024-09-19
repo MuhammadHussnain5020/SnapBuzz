@@ -37,37 +37,42 @@ To get started with the SnapBuzz project, follow these steps:
 
 Navigate to the backend directory.
 
-
+ ```bash
 cd backend
 Install dependencies.
+ ```
 
-
+ ```bash
 npm install
+```
 Create a .env file based on the .env.example and configure your environment variables, including MongoDB URI and Stripe keys.
 
 Run the server.
 
-
+ ```bash
 npm start
+ ```
 Set up the front-end
 
 Navigate to the frontend directory.
 
-
+ ```bash
 cd ../frontend
+```
 Install dependencies.
 
-
+ ```bash
 npm install
+```
 Create a .env file based on the .env.example and configure your environment variables, including API URL and Stripe publishable key.
 
 Run the app.
 
-
+```bash
 npm start
 API Endpoints
 The back-end API includes endpoints for user authentication, post management, subscription management, and more. Refer to the /backend/README.md for detailed API documentation.
-
+ ```
 Contributing
 Contributions are welcome! Please follow the standard GitHub workflow:
 
@@ -81,7 +86,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or feedback, feel free to reach out to us at your.email@example.com.
+For any questions or feedback, feel free to reach out to us at muhammadhusnain5020@gmail.com.
 
 Thank you for checking out SnapBuzz!
 
